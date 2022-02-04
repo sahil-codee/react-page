@@ -34,18 +34,21 @@ main {
     padding: 57px 27px;
     color: #fff;
     background-image: url('../public/logo512.png');
+    background-size: 20%;
     background-repeat: no-repeat;
-    background-position: right 1%;
+    background-position: right 75%;
 }
 .main-title {
     margin: 0%;
     font-size: 39px;
     letter-spacing: -5%;
+    font-size: 4rem;
 }
 .facts {
     margin-top: 46px;
     line-height: 19px;
-    max-width: 350px;
+    max-width: 400px;
+    font-size: 2rem;
 }
 .facts > li {
     font-family: Inter;
